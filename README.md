@@ -16,11 +16,6 @@
 ### 🛠️ Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Python](https://skillicons.dev/icons?i=python) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Tableau](https://skillicons.dev/icons?i=tableau) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![C](https://skillicons.dev/icons?i=c) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisCuevasData&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCuevasData&layout=compact&hide_border=true" />
-</p>
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fabian-cuevas)
