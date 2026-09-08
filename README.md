@@ -15,10 +15,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2tmZ2VjbmtkNmgyMWwwdjM0aTdqZWRxZnh2MzEwMWhkYnBscjdjYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2A2fX8WQJLkjCny8w7/giphy.gif" width="400"/>
 </p>
+
 - Could you tell I love cats?
+  
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
+
  - Ignore my 5k commits on this README. I just realized I could preview it too late...
  
 ### Tech Stack
