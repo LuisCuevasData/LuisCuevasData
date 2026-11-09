@@ -6,7 +6,7 @@
 ## About Me
 I'm a Business Data Analyst at DHL Supply Chain and a graduate student in Boston University's **M.S. in Computer Science & AI**, building on a **B.S. in Analytics** from Purdue Global. My work sits between operations and machine learning: forecasting demand, flagging risk, and turning data into decisions that teams can act on. I also apply the same skills to football analytics, which is how I first got into data.
 
- **[Resume](./resume/Luis_Cuevas_Resume.pdf)** 
+📄 **[Resume](./Resume_LuisCuevas26.pdf)**
 
 ## Currently Developing
 - Machine learning engineering: model design, evaluation, and deployment
